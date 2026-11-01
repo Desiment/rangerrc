@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.swp
+*.swo
+*.bak-*
+*.tmp
+.env
+.env.*
+!.env.example
+bookmarks
+history
+tagged
+metadata.json
